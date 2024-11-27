@@ -1,0 +1,238 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Sayfa -1" id="BVVbMn_bJ2x54ES9K7dg">
+    <mxGraphModel dx="1744" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="toPveYDsEGcTnPFrhPsC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-1" target="toPveYDsEGcTnPFrhPsC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-1" value="Başla" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-3" target="toPveYDsEGcTnPFrhPsC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-39" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-38">
+          <mxGeometry x="-0.878" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-3" value="Hangi işlemi yapmak istiyorsunuz?&lt;div&gt;1-)Ürün Ekle&lt;/div&gt;&lt;div&gt;2-)Satış yap&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-8" target="toPveYDsEGcTnPFrhPsC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-8" value="&quot;Ürün Adını Giriniz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.012;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-3" target="toPveYDsEGcTnPFrhPsC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="420" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="165" />
+              <mxPoint x="250" y="38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-36" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-10">
+          <mxGeometry x="-0.0394" relative="1" as="geometry">
+            <mxPoint x="-30" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549.984126984127" y="30.047619047619037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-11" value="urunAdi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-15" target="toPveYDsEGcTnPFrhPsC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-15" value="&quot;Birim Fiyatını giriniz:&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-16" value="birimFiyat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-20" target="toPveYDsEGcTnPFrhPsC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-20" value="&quot;Adet Giriniz:&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-21" target="toPveYDsEGcTnPFrhPsC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-21" value="adet" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-23" target="toPveYDsEGcTnPFrhPsC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-23" value="&quot;Ürün Eklendi!&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-25" target="toPveYDsEGcTnPFrhPsC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-29" value="H" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-28">
+          <mxGeometry x="0.5444" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-25" value="&quot;Başka bir ürün eklemek istiyormusunuz?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-27" target="toPveYDsEGcTnPFrhPsC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-32" value="H" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-31">
+          <mxGeometry x="-0.1444" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-27" value="&quot;Başka işlem yapmak istiyormusunuz?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-30" value="Bitir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-27" target="toPveYDsEGcTnPFrhPsC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="170" as="sourcePoint" />
+            <mxPoint x="910" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="240" />
+              <mxPoint x="770" y="240" />
+              <mxPoint x="140" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-25" target="toPveYDsEGcTnPFrhPsC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="170" as="sourcePoint" />
+            <mxPoint x="910" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1300" y="160" />
+              <mxPoint x="330" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-35" value="E" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-34">
+          <mxGeometry x="-0.939" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-37" target="toPveYDsEGcTnPFrhPsC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-37" value="&quot;Ürün Adını Giriniz&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-40" target="toPveYDsEGcTnPFrhPsC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-40" value="urunAdi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-42" target="toPveYDsEGcTnPFrhPsC-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-42" value="&quot;Fiyatı giriniz:&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-46" target="toPveYDsEGcTnPFrhPsC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-46" value="birimFiyat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-49" target="toPveYDsEGcTnPFrhPsC-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-49" value="&quot;Adet giriniz:&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-51" target="toPveYDsEGcTnPFrhPsC-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-51" value="adet" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-53" target="toPveYDsEGcTnPFrhPsC-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-53" value="toplamFiyat=birimFiyat*adet" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-55" target="toPveYDsEGcTnPFrhPsC-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-55" value="&quot;Hesabınızdaki para miktarını giriniz:&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-57" target="toPveYDsEGcTnPFrhPsC-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-57" value="para" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-61" target="toPveYDsEGcTnPFrhPsC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-61" value="toplamFiyat&amp;gt;=para" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-63" target="toPveYDsEGcTnPFrhPsC-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-63" value="&quot;Satış Gerçekleşti!&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-65" value="&quot;Başka işlem yapmak istiyormusunuz!&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-65" target="toPveYDsEGcTnPFrhPsC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="580" as="sourcePoint" />
+            <mxPoint x="40" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-68" value="E" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-67">
+          <mxGeometry x="-0.935" y="2" relative="1" as="geometry">
+            <mxPoint x="34" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="toPveYDsEGcTnPFrhPsC-65" target="toPveYDsEGcTnPFrhPsC-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="480" as="sourcePoint" />
+            <mxPoint x="820" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1560" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="toPveYDsEGcTnPFrhPsC-70" value="H" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toPveYDsEGcTnPFrhPsC-69">
+          <mxGeometry x="-0.9026" y="1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
